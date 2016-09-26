@@ -7,7 +7,7 @@ Standards-Version: 3.9.8
 Homepage: https://github.com/ds9-common/default-settings-session-debug
 
 Package: default-settings-session-debug
-Architecture: any
+Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: session for debugging plasma startup issues
  This package contains a xsession for debugging plasma startup issues
