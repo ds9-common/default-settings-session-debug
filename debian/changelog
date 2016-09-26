@@ -1,0 +1,5 @@
+default-settings-session-debug (0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Rohan Garg <rohan@kde.org>  Mon, 26 Sep 2016 12:04:51 +0200

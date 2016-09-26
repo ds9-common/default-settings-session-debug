@@ -1,0 +1,13 @@
+Source: default-settings-session-debug
+Section: unknown
+Priority: optional
+Maintainer: Rohan Garg <rohan@kde.org>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/ds9-common/default-settings-session-debug
+
+Package: default-settings-session-debug
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: session for debugging plasma startup issues
+ This package contains a xsession for debugging plasma startup issues

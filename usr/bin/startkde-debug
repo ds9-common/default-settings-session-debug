@@ -1,0 +1,4 @@
+#!/bin/sh
+#
+bootchartd -r -o /tmp &
+/usr/bin/startkde
