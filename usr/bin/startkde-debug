@@ -1,4 +1,4 @@
 #!/bin/sh
 #
-bootchartd -r -o /tmp &
+/lib/systemd/systemd-bootchart -r -o /tmp
 /usr/bin/startkde
